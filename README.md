@@ -17,7 +17,7 @@ O sistema foi projetado para gerenciar produtos em estoque e realizar vendas, co
 - **JSON**: Utilizado para o armazenamento dos dados de estoque e vendas de forma simples e eficiente.
 - **Modulação de arquivos**: O projeto foi estruturado em módulos para organizar o código e facilitar a manutenção.
 
-![OPÇÕES DO GERENCIADOR](imagens/opcoes.png)
+![OPÇÕES DO GERENCIADOR](opcoes.png)
 
 ## OBJETIVO
 
@@ -31,7 +31,7 @@ Este projeto foi criado com o objetivo de aprimorar minhas habilidades nas segui
 
 O sistema pode ser facilmente expandido para incluir novas funcionalidades, como integração com bancos de dados, autenticação de usuários, ou até mesmo uma interface gráfica, dependendo dos requisitos futuros.
 
-![IMAGEM DA ORGANIZAÇÃO DOS ARQUIVOS](imagens/arquivos.png)
+![IMAGEM DA ORGANIZAÇÃO DOS ARQUIVOS](arquivos.png)
 
 ## COMO EXECUTAR
 
